@@ -1,0 +1,4 @@
+esto es un archivo de prueba
+que puedo escribir en muchas lineas
+con el comando cat
+
